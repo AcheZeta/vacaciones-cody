@@ -36,3 +36,7 @@ ul li::marker {
 ol li{
   text-align: left;
 }
+
+header {
+  background-color: #2a9d8f;
+}
